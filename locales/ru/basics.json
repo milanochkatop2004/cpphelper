@@ -8,13 +8,13 @@
 		"name": "Типы данных",
 		"page_1": 
 		[
-			"Each variable has a specific type. And this type determines what values ​​a variable can have, what operations can be performed with it and how many bytes in memory it will occupy. The following basic data types are defined in <b>C++</b>:",
-			"<b>bool:</b> logical type. It can take one of two values - _​True_ and _False_. The size of the occupied memory for this type is not precisely defined.",
-			"<b>char:</b> represents a single ASCII character. It occupies `1 byte` (8 bits) in memory. Can store any value from `-128` to `127`, or `0` to `255`.",
-			"<b>signed char:</b> represents one character. It occupies `1 byte` (8 bits) in memory. Can store any value from `-128` to `127`.",
-			"<b>unsigned char:</b> represents one character. It occupies `1 byte` (8 bits) in memory. Can store any value from `0` to `255`.",
-			"<b>wchar_t:</b> represents a wide character. On Windows it occupies `2` bytes (16 bits) in memory, on Linux it takes `4` bytes (32 bits). Can store any value from `0` to `65,535` (for 2 bytes), or `0` to `4,294,967,295` (for 4 bytes).",
-			"<b>char16_t:</b> represents a single Unicode character. It occupies `2` bytes (16 bits) in memory. Can store any value from `0` to `65535`."
+			"Каждая переменная имеет определенный тип. И этот тип определяет, какие значения может иметь переменная, какие операции с ней можно выполнять и сколько байтов в памяти она будет занимать. Следующие основные типы данных определены в <b>C++</b>:",
+			"<b>bool:</b> логический тип. Может принимать одно из двух значений - _ True_ и _False_. Размер занимаемой памяти для этого типа точно не определен.",
+			"<b>char:</b> представляет собой один символ ASCII. Он занимает в памяти 1 байт (8 бит). Может хранить любое значение от «-128» до «127» или от «0» до «255».",
+			"<b>signed char:</b> представляет один символ. Он занимает в памяти 1 байт (8 бит). Может хранить любое значение от «-128» до «127».",
+			"<b>unsigned char:</b> представляет один символ. Он занимает в памяти 1 байт (8 бит). Может хранить любое значение от «0» до «255».",
+			"<b>wchar_t:</b> представляет собой широкий персонаж. В Windows он занимает в памяти 2 байта (16 бит), в Linux - 4 байта (32 бита). Может хранить любое значение от 0 до 65 535 (для 2 байтов) или от 0 до 4 294 967 295 (для 4 байтов).",
+			"<b>char16_t:</b> представляет один символ Юникода. Он занимает в памяти 2 байта (16 бит). Может хранить любое значение от «0» до «65535»."
 		],
 		"page_2":
 		[
